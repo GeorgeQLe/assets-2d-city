@@ -1,0 +1,8 @@
+{
+  "name": "assets-2d-city",
+  "description": "2D city and urban-themed game assets (buildings, roads, vehicles, props)",
+  "version": "0.1.0",
+  "category": "2d",
+  "theme": "city",
+  "assets": []
+}
